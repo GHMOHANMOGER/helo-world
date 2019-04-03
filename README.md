@@ -1,2 +1,2 @@
 # helo-world
-creating new repository
+this is sample git hub repository .
